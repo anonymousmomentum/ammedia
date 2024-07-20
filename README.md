@@ -1,2 +1,2 @@
-# amwww
-AMwww provides digital softwares that serve as solutions that effect optimal and efficient running of administrative, networking, security, and more computer based tasks, which can be implimented via local resources or web servers.
+# ammedia
+AMmedia is a broswer that can be used to search the local files of a device and the web.
